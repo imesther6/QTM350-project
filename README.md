@@ -5,7 +5,7 @@ Nowadays, we live in a digital world and often encounter fragmented information.
 
 We start with an overview of the importance of the problem, the Amazon Web Services [Amazon Textract](https://docs.aws.amazon.com/textract/latest/dg/what-is.html), explain how it works, and then discuss the results we found.
 
-## Method Overview
+## Textract Overview
 
 Amazon Textract is a machine learning service that automatically extracts text, handwriting, and data from scanned documents that goes beyond simple optical character recognition to identify and extract data from forms and tables. Many companies today manually extract data from scanned documents such as PDFs, images, tables, and forms, or through simple OCR software that requires manual configuration which oftentimes requires reconfiguration when the form changes. To overcome these manual and expensive processes, Textract uses machine learning to read and process any type of document, accurately extracting text, handwriting, tables, and other data without any manual effort. One can quickly automate document processing and take action on the information extracted whether it be automating loans processing or extracting information from invoices and receipts. Textract can extract the data in minutes vs. hours or days. Additionally, one can add in human reviews with Amazon Augmented AI to provide oversight of your models and perform reviews for sensitive data. 
 
