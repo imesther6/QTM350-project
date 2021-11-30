@@ -27,5 +27,5 @@ If you want to only get the code we used, you can check [qtm350_project.ipynb](q
 
 The architecture of the AWS Textract Service we used in our project is presented in this [diagram](architecture.jpg).
 
-
+## Images
 If you want to get the source pictures that we analyzed, you can find them in the folder [image](image). For your downloading purpose, we have also zipped all source pictures into [image.zip](image.zip).
