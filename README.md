@@ -13,7 +13,7 @@ Amazon Textract is a machine learning service that automatically extracts text, 
 
 In this report, we will also explore the data via visualization, ANOVA test, and regression analysis.
 
-We have walked through what we have done about our project in our blog "TO BE FILLED". If you are interested in reproducing or furture modifying our work, please read this [blog](https://finalprojectqtm350.s3.amazonaws.com/qtm350_project.html).
+We have walked through what we have done about our project in our blog "TO BE FILLED". If you are interested in reproducing or furture modifying our work, please read this [blog](https://finalprojectqtm350.s3.amazonaws.com/Final+project.html).
 
 ## Data Collection and Preparation
 
